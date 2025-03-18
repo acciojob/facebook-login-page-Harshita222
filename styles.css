@@ -1,6 +1,7 @@
 /*  your css code here. If applicable */
 .left img{
 	color:blue;
+	width:0;
 }
 .signup{
 	background-color:green;
